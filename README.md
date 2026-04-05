@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ## 👤 Auteur
 
 **Khalil Ghanam**
-🎓 Étudiant en Intelligence Artificielle & Facteurs humainss
+🎓 Étudiant en Intelligence Artificielle & Facteurs humains
 💼 Futur Data Scientist / ML Engineer
 
 
