@@ -15,13 +15,13 @@ Détection automatique de déchets plastiques dans des images réelles à l'aide
 
 ### Détection en milieu marin
 
-![Détection sac plastique sous-marin](images/detection_turtle.jpg)
+![Détection sac plastique sous-marin](images/test1.jpg)
 
 > Détection d'un sac plastique avec une confiance de **0.91** en milieu sous-marin — cas critique pour la faune marine.
 
 ### Détection en milieu naturel terrestre
 
-![Résultats de détection sur terrain](images/detection_results.png)
+![Résultats de détection sur terrain](images/test2.png)
 
 > Le modèle détecte plusieurs types de déchets (sacs, bouteilles, emballages) dans des environnements naturels variés avec bounding boxes.
 
