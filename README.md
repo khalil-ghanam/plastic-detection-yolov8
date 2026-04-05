@@ -57,3 +57,12 @@ pip install -r requirements.txt
 * Python
 * YOLOv8 (Ultralytics)
 * OpenCV
+
+---
+## 👤 Auteur
+
+**Khalil Ghanam**
+🎓 Étudiant en Intelligence Artificielle & Facteurs humainss
+💼 Futur Data Scientist / ML Engineer
+
+
